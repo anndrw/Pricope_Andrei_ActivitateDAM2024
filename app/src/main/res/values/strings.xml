@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seminar4_1098</string>
+    <string name="app_denumire">Denumire</string>
+    <string name="app_locuri">Numar locuri</string>
+    <string name="app_consum">Consum mediu</string>
+    <string name="app_an">An fabricatie</string>
+    <string name="app_zboara">Zboara de minim 5 ori pe saptamana?</string>
+    <string name="app_confort">Ce tip de confort are?</string>
+</resources>
